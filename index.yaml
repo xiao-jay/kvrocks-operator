@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kvrocks-operator:
+  - apiVersion: v1
+    appVersion: 2.25.0
+    created: "2023-05-16T11:24:46.759475218Z"
+    description: A Helm chart for kvrocks operator
+    digest: 2c65df095450b17d8d0d0dbd4ccb44bc938e94083d6da395915acd7f55ec1d49
+    name: kvrocks-operator
+    type: application
+    urls:
+    - https://github.com/xiao-jay/kvrocks-operator/releases/download/kvrocks-operator-0.1.0/kvrocks-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-16T11:24:46.759480818Z"
